@@ -1,1 +1,4 @@
 .DS_Store
+
+# Output directory, too big to commit
+cairo/target
